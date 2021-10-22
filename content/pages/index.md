@@ -31,7 +31,8 @@ sections:
 
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh euㅇㅇㅇ
+      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh
+      euㅇㅇㅇggg
     image: images/avatar.png
     image_alt: test
   - title: Recent Posts
